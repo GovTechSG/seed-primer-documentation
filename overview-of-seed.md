@@ -27,9 +27,23 @@ SEED comprises of three components:
     - **Microsoft Defender Advanced Threat Prevention**: Enterprise class vulnerability management, threat detection and response security solution.
     - **Tanium**: Works with Cloudflare to ensure posture-based conditional access to the endpoint assets.
 
+## Who needs SEED?
 
+Vendors and public officers who need to access SGTS resources and GCC resources from an Internet Device. 
 
-- 
+**Vendors**: Users whose organisational email address(vendor company address) does not have a **.gov.sg** or belongs to following domains:
+
+- dsta.gov.sg
+- dsta-wog.gov.sg
+- mindef.gov.sg
+- defence.gov.sg
+- gebiz.gov.sg
+- sps.gov.sg 
+
+?> **Note**: Sponsoring agencies may assign a **gov.sg** email address to vendors but that is **not** their organisational email address.
+
+**Public officers**: Users whose organisational email address has a **.gov.sg**
+
 
 
 
