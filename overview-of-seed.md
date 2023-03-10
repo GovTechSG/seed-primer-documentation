@@ -1,10 +1,26 @@
-# SEED overview
+# Overview of SEED
 
 SEED is the Singapore Government's implementation of Identity and Access Management (IAM) and zero trust framework to protect against unauthorised access to the Government's engineering resources, such as Government on Commercial Cloud (GCC) and the Singapore Tech Stack (SGTS).
 
 Zero Trust replaces traditional Virtual Private Network (VPN) connections and network-based security policies with a standardised central identity provider. It offers enforcement of access policies allowing only authorised users to use devices compliant with device postures.
 
-## Features
+## Audience
+
+Vendors and public officers who need to access SGTS resources and GCC resources from an Internet Device. 
+
+[Vendor](https://stackoverflow.com/a/71729464/11465149 "User whose organisational email address does not have a **.gov.sg** or belongs to specific domains listed in the table")
+
+[id1]: ## "User whose organisational email address does not have a **.gov.sg** or belongs to specific domains listed in the table"
+This is a [Vendor][id1] example.
+
+**Vendors**: Users whose organisational email address(vendor company address) does not have a **.gov.sg** or belongs to following domains
+
+|<div style="width:200px"> User</div>| <div style="width:290px">organisational email address</div>   | email domain |
+| --- |------------- |:-------------:|
+|Vendor| does not have a **gov.sg** in it.| belongs to<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg |
+|Public officer| has a **gov.sg** in it.     | does not belong to the domains mentioned for vendors.    |
+
+## Features of SEED
 
 - Detects and provides remediation steps for known malware.
 - Detects if the endpoint meets the required security hardening baseline according to the corresponding Center of Internet Security (CIS) benchmark for the installed endpoint operating system.
@@ -26,37 +42,4 @@ SEED comprises of three components:
     - **Microsoft Intune**: Provides device and application management including remote application deployment and selective device wipe.
     - **Microsoft Defender Advanced Threat Prevention**: Enterprise class vulnerability management, threat detection and response security solution.
     - **Tanium**: Works with Cloudflare to ensure posture-based conditional access to the endpoint assets.
-
-## Who needs SEED?
-
-Vendors and public officers who need to access SGTS resources and GCC resources from an Internet Device. 
-
-|<div style="width:200px"> User</div>| <div style="width:290px">organisational email address</div>   | email domain |
-| --- |------------- |:-------------:|
-|Vendor| does not have a **gov.sg** in it.| belongs to<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg |
-|Public officer| has a **gov.sg** in it.     | does not belong to the domains mentioned for vendors.    |
-
-
-**Vendors**: Users whose organisational email address(vendor company address) does not have a **.gov.sg** or belongs to following domains:
-
-- dsta.gov.sg
-- dsta-wog.gov.sg
-- mindef.gov.sg
-- defence.gov.sg
-- gebiz.gov.sg
-- sps.gov.sg 
-
-?> **Note**: Sponsoring agencies may assign a **gov.sg** email address to vendors but that is **not** their organisational email address.
-
-**Public officers**: Users whose organisational email address has a **.gov.sg** and belongs to domains other than the following:
-
-- dsta.gov.sg
-- dsta-wog.gov.sg
-- mindef.gov.sg
-- defence.gov.sg
-- gebiz.gov.sg
-- sps.gov.sg
-
-
-
 
