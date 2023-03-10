@@ -42,7 +42,14 @@ Vendors and public officers who need to access SGTS resources and GCC resources 
 
 ?> **Note**: Sponsoring agencies may assign a **gov.sg** email address to vendors but that is **not** their organisational email address.
 
-**Public officers**: Users whose organisational email address has a **.gov.sg**
+**Public officers**: Users whose organisational email address has a **.gov.sg** and belongs to domains other than the following:
+
+- dsta.gov.sg
+- dsta-wog.gov.sg
+- mindef.gov.sg
+- defence.gov.sg
+- gebiz.gov.sg
+- sps.gov.sg
 
 
 
