@@ -6,14 +6,11 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ## Audience
 
-Vendors and public officers who need to access SGTS resources and GCC resources from an Internet Device. 
-
-[Vendor](https://stackoverflow.com/a/71729464/11465149 "User whose organisational email address does not have a **.gov.sg** or belongs to specific domains listed in the table")
-
-[id1]: ## "User whose organisational email address does not have a **.gov.sg** or belongs to specific domains listed in the table"
-This is a [Vendor][id1] example.
+[Vendor](#identify-your-user-type "User whose organisational email address does not have a **.gov.sg** or belongs to specific domains listed in the table") and [public officers](#identify-your-user-type "User whose organisational email address has a **.gov.sg** and does not belong to specific domains listed in the table") who need to access SGTS resources and GCC resources from an Internet Device. 
 
 **Vendors**: Users whose organisational email address(vendor company address) does not have a **.gov.sg** or belongs to following domains
+
+### Identify your user type
 
 |<div style="width:200px"> User</div>| <div style="width:290px">organisational email address</div>   | email domain |
 | --- |------------- |:-------------:|
