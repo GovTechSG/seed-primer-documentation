@@ -31,6 +31,12 @@ SEED comprises of three components:
 
 Vendors and public officers who need to access SGTS resources and GCC resources from an Internet Device. 
 
+|<div style="width:200px"> User</div>| <div style="width:290px">organisational email address</div>   | email domain |
+| --- |------------- |:-------------:|
+|Vendor| does not have a **gov.sg** in it.| belongs to<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg |
+|Public officer| has a **gov.sg** in it.     | does not belong to the domains mentioned for vendors.    |
+
+
 **Vendors**: Users whose organisational email address(vendor company address) does not have a **.gov.sg** or belongs to following domains:
 
 - dsta.gov.sg
