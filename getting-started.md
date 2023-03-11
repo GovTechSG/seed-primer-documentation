@@ -4,7 +4,7 @@ This section guides you about the prerequisites needed to onboard your Internet 
 
 ## Prerequisites
 
-!> **Important Note**:<br>- You need NOT onboard your [SE-GSIB][id1] or [Non-SE GSIB][id2] devices to SEED.<br>- You can onboard only **one Internet Device** to SEED.
+!> **Important Note**:<br>- You need NOT onboard your **SE-GSIB** or **Non-SE GSIB** devices to SEED.<br>- You can onboard only **one Internet Device** to SEED.
 
 - [Active TechPass account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/).
 - SEED onboarding invitation email which has not yet expired. 
@@ -27,14 +27,3 @@ This section guides you about the prerequisites needed to onboard your Internet 
 
 
 
-
-## Get TechPass
-
-## test 2
-
-
-
-
-
-[id1]: ## "Secured Email Device on Government Standard Image Build"
-[id2]: ## "Non-Secured Email Device on Government Standard Image Build"
