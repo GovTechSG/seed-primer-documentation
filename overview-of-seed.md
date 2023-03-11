@@ -27,7 +27,7 @@ Vendor and public officer who needs to access SGTS resources and GCC resources f
 - sps.gov.sg
 
 
-### Identify your user type (Eunice either this goes or the above explanation)
+## Identify your user type (Eunice either this goes or the above explanation)
 
 Refer to this table to know what type of user you are for the SEED platform.
 
