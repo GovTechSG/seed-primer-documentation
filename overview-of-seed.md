@@ -6,16 +6,35 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ## Audience
 
-[Vendor](#identify-your-user-type "User whose organisational email address does not have a **.gov.sg** or belongs to specific domains listed in the table") and [public officers](#identify-your-user-type "User whose organisational email address has a **.gov.sg** and does not belong to specific domains listed in the table") who need to access SGTS resources and GCC resources from an Internet Device. 
+Vendor and public officer who needs to access SGTS resources and GCC resources from an Internet Device. 
 
-**Vendors**: Users whose organisational email address(vendor company address) does not have a **.gov.sg** or belongs to following domains
+**Vendors**: Users whose organisational email address(official email address) does not have a **.gov.sg** or belongs to following domains:
 
-### Identify your user type
+- dsta.gov.sg
+- dsta-wog.gov.sg
+- mindef.gov.sg
+- defence.gov.sg
+- gebiz.gov.sg
+- sps.gov.sg
+
+**Public officer**: Users whose organisational email address(official email address) has a **.gov.sg** and must not belong to following domains:
+
+- dsta.gov.sg
+- dsta-wog.gov.sg
+- mindef.gov.sg
+- defence.gov.sg
+- gebiz.gov.sg
+- sps.gov.sg
+
+
+### Identify your user type (Euncie either this goes or the above explanation)
+
+Refer to this table to know what type of user you are for the SEED platform.
 
 |<div style="width:200px"> User</div>| <div style="width:290px">organisational email address</div>   | email domain |
 | --- |------------- |:-------------:|
 |Vendor| does not have a **gov.sg** in it.| belongs to<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg |
-|Public officer| has a **gov.sg** in it.     | does not belong to the domains mentioned for vendors.    |
+|Public officer| has a **gov.sg** in it. | does not belong to the domains mentioned for vendors.    |
 
 ## Features of SEED
 
