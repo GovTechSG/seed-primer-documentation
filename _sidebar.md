@@ -1,3 +1,3 @@
 **SEED**
 - [Overview](overview-of-seed)
-- [Test](test)
+- [Getting started ](getting-started)
