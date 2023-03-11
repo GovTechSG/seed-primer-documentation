@@ -10,8 +10,8 @@ This section guides you about the prerequisites needed to onboard your Internet 
 - Internet Device running on any one of the following operating systems:
     - Windows 10 and 11 Pro or Enterprise versions
     - macOS 11 (macOS Big Sur), macOS 12 (macOS Monterey) and macOS 13 (Ventura) versions
-        - [Enable System Integrity protection (SIP)](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=verify-if-system-integrity-protection-is-enabled)
-- You must have Administrator permission on this device.
+        - [Enable System Integrity protection (SIP)](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=verify-if-system-integrity-protection-is-enabled) for your macOS device.
+- You must have Administrator permission on the device.
 - [Encrypt hard disk drive to protect the data at rest](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=encrypt-your-hard-disk-drive-to-protect-your-data-at-rest).        
 - The device **should not contain** the following software. For more information, see [remove existing software](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=remove-existing-softwares-on-your-device).
     - Any MDM on the device
