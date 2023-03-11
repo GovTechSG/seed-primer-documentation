@@ -31,7 +31,7 @@ Vendor and public officer who needs to access SGTS resources and GCC resources f
 
 Refer to this table to know what type of user you are for the SEED platform.
 
-|<div style="width:200px"> User</div>| <div style="width:200px">organisational email address</div>   | email domain | email formats | example |
+|<div style="width:100px"> User</div>| <div style="width:100px">organisational email address</div>   | email domain | email formats | example |
 | --- |------------- |:-------------:| ---- |----|
 |Vendor| Does not have a **gov.sg** in it.| belongs to<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg | *\<your_name\>_FROM.\<vendor organisation name\>@\<acronym for the agency\>.gov.sg*. | - *john_doe_FROM.VENDORPROVIDER@tech.gov.sg*<br> - *john_doe@mindef.gov.sg* |
 |Public officer| has a **gov.sg** in it. | does not belong to the domains mentioned for vendors. | *\<your_name\>@\<acronym for your agency\>.gov.sg*| - *john_doe@cpf.gov.sg*<br>- *john_doe@hdb.gov.sg* |
