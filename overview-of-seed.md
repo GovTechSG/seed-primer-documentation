@@ -6,27 +6,29 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ## Audience
 
-Vendor and public officer who needs to access SGTS resources and GCC resources from an Internet Device. 
+[Vendor](#vendor) and [public officer](#public-officer) who needs to access SGTS resources and GCC resources from an Internet Device. 
 
-**Vendors**: Users whose organisational email address(official email address) does not have a **.gov.sg** or belongs to following domains:
+### Vendor
 
-- dsta.gov.sg
-- dsta-wog.gov.sg
-- mindef.gov.sg
-- defence.gov.sg
-- gebiz.gov.sg
-- sps.gov.sg
+According to SEED, you are a **Vendor**, if your organisational email address(official email address) meets any **one** of the following conditions:
 
-**Public officer**: Users whose organisational email address(official email address) has a **.gov.sg** and must not belong to following domains:
+- does not have a **.gov.sg** in it
+- belongs to any of the following domains:
+    - dsta.gov.sg
+    - dsta-wog.gov.sg
+    - mindef.gov.sg
+    - defence.gov.sg
+    - gebiz.gov.sg
+    - sps.gov.sg
 
-- dsta.gov.sg
-- dsta-wog.gov.sg
-- mindef.gov.sg
-- defence.gov.sg
-- gebiz.gov.sg
-- sps.gov.sg
+### Public officer    
 
+According to SEED, you are a **public officer** if your organisational email address(official email address) meets the following **two** conditions:
 
+- has a **.gov.sg** in it
+- **must not belong** to domains listed under the [Vendor](#vendor) definition.
+
+<!--
 ## Identify your user type (Eunice either this goes or the above explanation)
 
 Refer to this table to know what type of user you are for the SEED platform.
@@ -34,7 +36,7 @@ Refer to this table to know what type of user you are for the SEED platform.
 |<div style="width:100px"> User</div>| <div style="width:140px">organisational email address</div>   | email domain 
 | --- |------------- |:-------------:| 
 |Vendor| Does not have a **gov.sg** in it.| belongs to<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg |
-|Public officer| has a **gov.sg** in it. | does not belong to the domains mentioned for vendors. | 
+|Public officer| has a **gov.sg** in it. | does not belong to the domains mentioned for vendors. | -->
 
 ## Features of SEED
 
