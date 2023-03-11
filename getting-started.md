@@ -4,9 +4,9 @@ This section guides you about the prerequisites needed to onboard your Internet 
 
 ## Prerequisites
 
-!> **Note**<br>- SEED is NOT meant for [SE-GSIB][id1] or [Non-SE GSIB][id2] devices.
+!> **Note**: SEED is NOT meant for [SE-GSIB][id1] or [Non-SE GSIB][id2] devices.
 
-- Active TechPass account
+- [Active TechPass account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/)
 - Internet Device running on any one of the following operating systems:
     - Windows 10 and 11 Pro or Enterprise versions
     - macOS 11 (macOS Big Sur), macOS 12 (macOS Monterey) and macOS 13 (Ventura) versions
