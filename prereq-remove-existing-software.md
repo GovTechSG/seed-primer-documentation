@@ -14,25 +14,15 @@ If your Internet Device has the following software, remove them before onboardin
 <details>
   <summary style="font-size:18px">a. Verify if your device is already managed by any MDM software</summary><br>
 
-  **To verify if you already have an MDM software**
-  
-  1. Go to the **Apple** menu > **System Preferences** or click the **System Preferences** icon in the **Dock**.
-  2. Go to **Profiles**, and from the left menu, choose **Management Profile**.
+  1. Go to the **Apple** menu > **System Settings** > **Privacy and Security**. 
+  2. On the right-side menu, scroll down and click **Profiles**.
+  3. Double-click **Management Profile**.
 
-  <kbd>![verify-other-mdm](images/onboarding-for-macos/verify-other-mdm.png)</kbd>
+  <kbd>![verify-other-mdm](images/prereq-verify-if-mdm-already-there.png)</kbd>
 
-  3. At the lower left, if you see "This Mac is supervised and managed by *your-organisation-name*", it indicates you already have an MDM software.
+?>**Notes**<br><br>- If the status is **Unverified**, it confirms your device is not managed by any MDM currently and you may proceed to step **c.Remove Tanium Client**.<br><br>- If you see the ```iosprofilesigning.manage.microsoft.com``` certificate, it indicates that **Microsoft Intune** is your MDM. Proceed to **step b. Unenrol from Microsoft Intune**.<br><br>- If you have an MDM other than Microsoft Intune, contact your organisation's IT administrator to unenrol your device from it.
 
-  ?> If you confirm your device is not managed by any MDM currently, proceed to step **c.Remove Tanium Client**.
-
-  4. To view the details of the current MDM software, go to **Settings** in the right side of **profiles**.
-  ![verify-other-mdm](images/onboarding-for-macos/management-profile-settings.png)
-
-  >**Notes:**
-  >- If you see Microsoft Intune in the settings, it indicates that **Microsoft Intune** is your MDM. Proceed to the next **step b. Unenrol from Microsoft Intune**    
-  >- To unenrol your device from MDM softwares other than Microsoft Intune, contact your organisation's IT administrator.
-
-  </details>
+</details>
 <details>
   <summary style="font-size:18px">b. Unenrol from Microsoft Intune</summary><br>
 
