@@ -10,16 +10,16 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ### Vendor
 
-You are a **Vendor**, if:
+You are a **Vendor**:
 
-- your organisational email address has any of the following:
+- If your organisational email address has any of the following:
     - dsta.gov.sg
     - dsta-wog.gov.sg
     - mindef.gov.sg
     - defence.gov.sg
     - gebiz.gov.sg
     - sps.gov.sg
-- you have a vendor email address as your organisational email address. For example:
+- If you have a vendor email address as your organisational email address. For example:
     - john_doe@ncs.com.sg 
     - john_doe@accenture.com.sg   
 
