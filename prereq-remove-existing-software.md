@@ -18,6 +18,7 @@ If your Internet Device has the following software, remove them before onboardin
   2. Choose one of the following steps:
      
      i. If the device has an MDM, unenrol the device from it.
+     
      ii. If the device does not have an MDM, proceed to step **c.Remove Tanium Client**.
 
  </details>     
