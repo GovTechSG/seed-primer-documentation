@@ -14,30 +14,14 @@ If your Internet Device has the following software, remove them before onboardin
 <details>
   <summary style="font-size:18px">a. Verify if your device is already managed by any MDM software</summary><br>
 
-  1. Go to the **Apple** menu > **System Settings** > **Privacy and Security**. 
-  2. On the right-side menu, scroll down and click **Profiles**.
-  3. Double-click **Management Profile**.
+  1. Check with the team that provided you the Internet Device to know if it already has an MDM.
+  2. Choose one of the following steps:
+     
+     i. If the device has an MDM, unenrol the device from it.
+     ii. If the device does not have an MDM, proceed to step **c.Remove Tanium Client**.
 
-  <kbd>![verify-other-mdm](images/prereq-verify-if-mdm-already-there.png)</kbd>
-
-?>**Notes**<br><br>- If the status is **Unverified**, it confirms your device is not managed by any MDM currently and you may proceed to step **c.Remove Tanium Client**.<br><br>- If you see the ```iosprofilesigning.manage.microsoft.com``` certificate, it indicates that **Microsoft Intune** is your MDM. Proceed to **step b. Unenrol from Microsoft Intune**.<br><br>- If you have an MDM other than Microsoft Intune, contact your organisation's IT administrator to unenrol your device from it.
-
-</details>
-<details>
-  <summary style="font-size:18px">b. Unenrol from Microsoft Intune</summary><br>
-
-  1. Click the **Spotlight** icon or press the ``Command+Spacebar`` to open the **Spotlight Search**.
-  2. Enter **Company Portal**.
-  3. Sign in to **Company Portal**.
-  <kbd>![sign-in-to-company-portal](images/onboarding-for-macos/sign-in-to-company-portal.png)</kbd>
-  4. Go to **Devices** and click the three dots beside the device you want to unenrol.
-  5. Choose **Remove**.
-  <kbd>![devices](images/onboarding-for-macos/devices-2.png)</kbd>
-  6. When prompted to confirm the removal, select **Remove**.
-  7. Click your profile icon and **Sign out** of **Company Portal**.
-
-</details>
-
+ </details>     
+  
 <details>
   <summary style="font-size:18px">c. Remove Tanium Client</summary><br>
 
