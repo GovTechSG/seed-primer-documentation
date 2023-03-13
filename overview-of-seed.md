@@ -32,6 +32,7 @@ For example:
 - john_doe<span>@</span>cpf.gov.sg
 - john_doe<span>@</span>hdb.gov.sg
 
+
 ?> Users who have a .gov.sg but has a ```_from``` in their email address are NOT public officers.
 
 <!--
