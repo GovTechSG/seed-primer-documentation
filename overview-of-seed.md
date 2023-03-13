@@ -29,8 +29,8 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 Users whose organisational email address has a **.gov.sg** in it.
 For example:
 
-- john_doe@cpf.gov.sg
-- john_doe@hdb.gov.sg
+- john_doe<span>@</span>cpf.gov.sg
+- john_doe<span>@</span>hdb.gov.sg
 
 ?> Users who have a .gov.sg but has a ```_from``` in their email address are NOT public officers.
 
