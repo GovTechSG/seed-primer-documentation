@@ -12,16 +12,19 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 You are a **Vendor**:
 
-- If your organisational email address has any of the following:
+- If your organisational email address belongs to any of the following email domains:
     - dsta.gov.sg
     - dsta-wog.gov.sg
     - mindef.gov.sg
     - defence.gov.sg
     - gebiz.gov.sg
     - sps.gov.sg
+
 - If you have a vendor email address as your organisational email address. For example:
     - john_doe@ncs.com.sg 
-    - john_doe@accenture.com.sg   
+    - john_doe@accenture.com.sg 
+
+?> Email domain is the part of an email address that comes after the “@” symbol. For example, if your email address is john_doe@sps.gov.sg, then ```sps.gov.sg``` is your email domain.      
 
 ### Public officer    
 
