@@ -10,7 +10,7 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ### Vendor
 
-According to SEED, you are a **Vendor**, if:
+You are a **Vendor**, if:
 
 - your organisational email address has any of the following:
     - dsta.gov.sg
@@ -25,8 +25,7 @@ According to SEED, you are a **Vendor**, if:
 
 ### Public officer    
 
-According to SEED, you are a **public officer** if your organisational email address(official email address) has a **.gov.sg** in it.
-
+You are a **public officer** if your organisational email address(official email address) has a **.gov.sg** in it.
 
 <!--
 ## Identify your user type (Eunice either this goes or the above explanation)
