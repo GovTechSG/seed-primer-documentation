@@ -10,9 +10,7 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ### Vendor
 
-You are a **Vendor**:
-
-- If your organisational email address belongs to any of the following email domains:
+- Users whose organisational email address belongs to any of the following email domains:
     - dsta.gov.sg
     - dsta-wog.gov.sg
     - mindef.gov.sg
@@ -20,7 +18,7 @@ You are a **Vendor**:
     - gebiz.gov.sg
     - sps.gov.sg
 
-- If you have a vendor email address as your organisational email address. For example:
+- Users who have a vendor email address as their organisational email address. For example:
     - john_doe@ncs.com.sg 
     - john_doe@accenture.com.sg 
 
@@ -28,7 +26,13 @@ You are a **Vendor**:
 
 ### Public officer    
 
-You are a **public officer** if your organisational email address(official email address) has a **.gov.sg** in it.
+Users whose organisational email address has a **.gov.sg** in it.
+For example:
+
+- john_doe@cpf.gov.sg
+- john_doe@hdb.gov.sg
+
+?> Users who have a .gov.sg but has a ```_from``` in their email address are NOT public officers.
 
 <!--
 ## Identify your user type (Eunice either this goes or the above explanation)
