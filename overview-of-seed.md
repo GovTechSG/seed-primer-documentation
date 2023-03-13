@@ -6,7 +6,19 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ## Audience
 
-[Vendor](#vendor) and [public officer](#public-officer) who needs to access SGTS resources and GCC resources from an Internet Device. 
+- Vendors
+- Public officers
+
+| User| Description | <div style="width:210px">Examples</div> |
+|----| ------------- |:-------------:|
+| **Vendor** | Users whose organisational email address belong to any of the following email domains:<br>- dsta.gov.sg<br>- dsta-wog.gov.sg<br>- mindef.gov.sg<br>- defence.gov.sg<br>- gebiz.gov.sg<br>- sps.gov.sg<br><br>Users who have a vendor email address as their organisational email address. | - john_doe@dsta.gov.sg<br>- john_doe@gebiz.gov.sgz<br><br><br><br><br><br><br><br>- john_doe@ncs.com.sg<br>- john_doe@accenture.com.sg  |
+| **Public officer** | Users whose organisational email address has a **.gov.sg** in it.<br><br>**Note**: Users who have a **.gov.sg** but also has a ***_from*** in their email address are **NOT** public officers. | - john_doe@cpf.gov.sg<br>- john_doe@hdb.gov.sg |
+
+
+
+
+
+[Vendor](#vendor) and [public officer](#public-officer) who needs to access SGTS resources and GCC resources from an Internet Device.
 
 ### Vendor
 
@@ -29,12 +41,15 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 Users whose organisational email address has a **.gov.sg** in it.
 For example:
 
-- john_doe
+<li>john_doe
 <span>@</span>
+
 cpf.gov.sg
 
 - john_doe
+
 <span>@</span>
+
 hdb.gov.sg
 
 
