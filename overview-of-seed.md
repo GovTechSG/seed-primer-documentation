@@ -10,23 +10,23 @@ Zero Trust replaces traditional Virtual Private Network (VPN) connections and ne
 
 ### Vendor
 
-According to SEED, you are a **Vendor**, if your organisational email address(official email address) meets any **one** of the following conditions:
+According to SEED, you are a **Vendor**, if:
 
-- does not have a **.gov.sg** in it
-- belongs to any of the following domains:
+- your organisational email address has any of the following:
     - dsta.gov.sg
     - dsta-wog.gov.sg
     - mindef.gov.sg
     - defence.gov.sg
     - gebiz.gov.sg
     - sps.gov.sg
+- you have a vendor email address as your organisational email address. For example:
+    - john_doe@ncs.com.sg 
+    - john_doe@accenture.com.sg   
 
 ### Public officer    
 
-According to SEED, you are a **public officer** if your organisational email address(official email address) meets the following **two** conditions:
+According to SEED, you are a **public officer** if your organisational email address(official email address) has a **.gov.sg** in it.
 
-- has a **.gov.sg** in it
-- **must not belong** to domains listed under the [Vendor](#vendor) definition.
 
 <!--
 ## Identify your user type (Eunice either this goes or the above explanation)
