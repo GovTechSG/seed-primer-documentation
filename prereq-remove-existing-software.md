@@ -2,8 +2,8 @@
 
 If your Internet Device has the following software, remove them before onboarding to SEED. 
 
-- Existing MDM on the device
-- Tanium Client of any Unified Endpoint Management (UEM) and Security Platforms
+- Remove the existing MDM on the Internet Device
+- Remove Tanium Client of any Unified Endpoint Management (UEM) and Security Platforms
 - Cloudflare WARP or any other software that provides secured and private connections
 - Microsoft Defender or any other antivirus solution
 
@@ -12,9 +12,9 @@ If your Internet Device has the following software, remove them before onboardin
 #### **macOS**
 
 <details>
-  <summary style="font-size:18px">a. Verify if your device is already managed by any MDM software</summary><br>
+  <summary style="font-size:18px">a. Remove the existing MDM on the Internet Device </summary><br>
 
-  1. Check with the team that provided you the Internet Device to know if it already has an MDM.
+  1. Check with the team that provided you the device to know if it already has an MDM.
   2. Choose one of the following steps:
      
      i. If the device has an MDM, contact the respective IT administrator to unenrol the device from it.
@@ -31,7 +31,17 @@ If your Internet Device has the following software, remove them before onboardin
    ```
   sudo ls /Library/Tanium/TaniumClient
    ```
-  2. If prompted for password, enter your macOS password.
+  
+  ?> To open **Terminal**:<br>1. Press ```Command + Spacebar``` to open the Spotlight Search.<br>2. 
+  Enter **Terminal.app**.
+
+  1. Open **Terminal** and run the following command:
+
+   ```
+  sudo ls /Library/Tanium/TaniumClient
+   ```
+  2. When prompted for password, enter your macOS password.
+  
 
   3. If you see the below on your **Terminal**, it indicates that Tanium Client is installed on your device and go to step 3. If not, proceed to step d. **Remove Cloudflare WARP client**.
 
