@@ -1,4 +1,4 @@
 **SEED**
-- [Overview](overview-of-seed)
+- [Overview](overview)
 - [Getting started ](getting-started)
  - [Remove existing software](prereq-remove-existing-software)    
