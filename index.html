@@ -27,5 +27,38 @@
 <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
 <!-- docsify-tabs (latest v1.x.x) -->
 <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
+<body>
+
+  <!-- 1. Import mermaid.js, BEFORE the window.$docsify initialisation -->
+  <script src="//cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+  
+  <script>
+    // 2. Add the two lines below before declaring the window.$docsify object:
+    var num = 0;
+    mermaid.initialize({ startOnLoad: false });
+
+    // 3. Add the "markdown" option to window.$docsify in addition to the other config
+    window.$docsify = {
+      ...otherDocsifyConfig,
+      markdown: {
+        renderer: {
+          code: function (code, lang) {
+            if (lang === "mermaid") {
+              return (
+                '<div class="mermaid">' +
+                mermaid.render("mermaid-svg-" + num++, code) +
+                "</div>"
+              );
+            }
+            return this.origin.code.apply(this, arguments);
+          },
+        },
+      },
+    };
+  </script>
+  <!-- ...other imports -->
+</body>
+
+
 </body>
 </html>

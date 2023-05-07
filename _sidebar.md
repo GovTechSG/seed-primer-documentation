@@ -1,4 +1,5 @@
-**SEED**
+**SEED Primer**
 - [Overview](overview)
 - [Getting started ](getting-started)
- - [Remove existing software](prereq-remove-existing-software)    
+    - [Identify your SEED onboarding persona](identify-your-seed-onboarding-persona)
+    
