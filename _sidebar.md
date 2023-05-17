@@ -1,6 +1,6 @@
 **SEED Primer**
-- [Overview](overview)
-[**Getting started**](getting-started)
+[Overview](overview)
+[Getting started](getting-started)
 
 
     
