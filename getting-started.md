@@ -9,8 +9,7 @@ This section gives the general guidelines on how to get started with SEED onboar
 ## Step 0: Ensure to complete all the prerequisites
 
 - You need an active [TechPass account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-to-techpass).
-- Request for SEED provisioning.
-- Refer to [SEED user documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding) to know how to request for SEED provisioning and for the complete list of SEED prerequisites.
+- Request for SEED provisioning. Refer to [SEED user documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding) to know how to request for SEED provisioning and for the complete list of SEED prerequisites.
 
 ## Step 1: Identify your onboarding persona
 
