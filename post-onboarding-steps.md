@@ -8,4 +8,3 @@ The objective of this is to ensure the following:
 - Activate Cloudflare WARP for macOS.
 
 By completing the post onboarding steps, you will ensure that SEED functions properly and that Cloudflare WARP is activated for macOS, enhancing your device's security and performance.
-
