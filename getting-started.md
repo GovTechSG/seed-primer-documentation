@@ -26,17 +26,10 @@ This section provides general guidelines on how to get started with SEED onboard
 
 To determine if your onboarding persona is that of a **vendor** or a **public officer**, you can refer to your TechPass login ID. The onboarding persona is determined based on your login ID associated with TechPass.
 
-### Vendor 
-
-If your TechPass login ID belongs to the domain ```techpass.gov.sg```, you need to onboard your Internet Device to SEED as a vendor.
-
-For example: If your TechPass login ID is john_doe@techpass.gov.sg, you need to onboard as vendor.
-
-### Public officer
-
-If your TechPass login ID is the same as your organisational email address (WOG account), you need to onboard your Internet Device to SEED as a public officer.
-
-For example: If your TechPass login ID is john_doe@moe.gov.sg or john_doe_from.cognizant@tech.gov.sg, you need to onboard as vendor.
+| Onboarding Persona 	| Description 	| Example 	|
+|---	|---	|---	|
+| Vendor 	| If your TechPass login ID belongs to the domain ```techpass.gov.sg```, you need to onboard your Internet Device to SEED as a vendor. 	| john_doe@techpass.gov.sg 	|
+| Public officer 	| If your TechPass login ID is the same as your organisational email address (WOG account), you need to onboard your Internet Device to SEED as a public officer. 	| john_doe@moe.gov.sg<br>john_doe_from.cognizant@tech.gov.sg 	|
 
 ## Step 2: Onboard device to SEED
 
