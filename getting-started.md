@@ -1,36 +1,38 @@
 # Getting started
 
-This section guides you about the prerequisites needed to onboard your Internet Device to SEED.
+This section gives the general guidelines on how to get started with SEED onboarding. 
+
+## Guidelines for onboarding
+
+![why-do-we-need-seed](images/why-do-we-need-seed.png)
+
+## Step 0: Ensure to complete all the prerequisites
+
+- You need an active [TechPass account](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-to-techpass).
+- Request for SEED provisioning.
+- Refer to [SEED user documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding) to know how to request for SEED provisioning and for the complete list of SEED prerequisites.
+
+## Step 1: Identify your onboarding persona
+
+Find if your onboarding persona is **Vendor** or **Public officer**. Your onboarding persona depends on your TechPass login ID.
+
+### Vendor 
+
+If your TechPass login ID belongs to domain **techpass.gov.sg**, you need to onboard your Internet Device to SEED as a vendor. 
+
+For example: If your TechPass login ID is john_doe@techpass.gov.sg, you need to onboard as vendor.
+
+### Public officer
+
+If your TechPass login ID is same as your organisational email address (WOG account), you need to onboard your Internet Device to SEED as a public officer. 
+
+For example: If your TechPass login ID is john_doe@moe.gov.sg or john_doe_from.cognizant@tech.gov.sg, you need to onboard as vendor.
+
+## Step 2: Onboard device to SEED
+
+Refer to [SEED Documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/onboard-device/onboard-device-to-seed) for the step-by-step instructions for your onboarding persona. 
 
 
-## Prerequisites
-
-Before you proceed to onboard your device to SEED, note the following prerequisites and recommendations:
-
-- Ensure you have an active [TechPass account](https://docs.developer.tech.gov.sg/docs/tp-userdocs-for-writers/onboard-to-techpass).
-- Ensure you have a valid SEED onboarding invitation email. If it has already expired, use one of the below options:
-    - If you had earlier requested your reporting officer or project manager to get invited to TechPass and SEED, contact them again to get another SEED onboarding invitation email.
-    - If you had signed up via the TechPass portal, you may log in to the TechPass portal to [request for SEED onboarding invitation email](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/request-for-seed-provisioning).
-- Ensure your are onboarding only an Internet Device which is not a **SE-GSIB** or **Non-SE GSIB** device.
-- You can onboard only **one Internet Device** to SEED.
-- Ensure you have Administrator permissions on the device.
-- Ensure the device is running on one of the following operating systems:
-    - Windows 10 and 11 Pro or Enterprise versions.
-    - macOS 11 (macOS Big Sur), macOS 12 (macOS Monterey) and macOS 13 (Ventura) versions.    
-- [Remove existing software on your device.](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=remove-existing-software-on-your-device)
-- If your device is running on macOS, ensure [System Integrity protection(SIP) is enabled](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=verify-if-system-integrity-protection-is-enabled).
-- [Encrypt hard disk drive to protect the data at rest](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding?id=encrypt-your-hard-disk-drive-to-protect-your-data-at-rest). 
-- If your organisation uses a firewall or other policies to restrict Internet traffic, you may need to make few changes to allow WARP to connect. To know more about these changes, visit [Cloudflare Docs](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/deployment/firewall/). 
-
-## Onboarding to SEED
-
-Step 0: - [Identify your SEED onboarding persona](identify-your-seed-onboarding-persona).
-
-Step 1: [Ensure to complete the prerequisites and recommendations.](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding)
-
-Step 2: [Onboard to SEED]()
-
-  
 
 
 
