@@ -6,7 +6,7 @@ This document gives you a high level introduction of SEED and on the following a
 ## SEED Overview
 
 <summary style="font-size:20px;font-weight:bold">SEED Overview</summary>
-<img align="right" width="390" height="270" src="/images/seed-functionalities.png">
+<img align="right" width="390" height="270" src="images/seed-functionalities.png">
 
 SEED is the Singapore Government's implementation of Identity and Access Management (IAM) and zero trust framework to protect against unauthorised access to the Government's engineering resources, such as Government on Commercial Cloud (GCC) and the Singapore Tech Stack(SGTS).
 
