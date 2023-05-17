@@ -1,6 +1,6 @@
 **SEED Primer**
  - [Overview](overview)
- - [Getting started](getting-started)
+ - [Onboarding to SEED](getting-started)
  - [Post onboarding](post-onboarding)
 
 
