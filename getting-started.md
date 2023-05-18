@@ -17,8 +17,7 @@ flowchart LR
 
 ```
 
-%%{init: {'theme': 'base', 'themeVariables': { 'fontSize': '13px', 'fontFamily': 'Inter'}}}%%
-
+```mermaid
 %%{init: {'theme': 'default','themeVariables': { 'fontSize': '13px', 'fontFamily': 'Inter'}}}%%
 graph LR
     A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
@@ -31,6 +30,7 @@ graph LR
     C --> D
     D --> E
 
+```
 
 ## Guidelines for onboarding
 
