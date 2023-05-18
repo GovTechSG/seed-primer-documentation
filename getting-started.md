@@ -18,7 +18,7 @@ flowchart LR
 ```
 
 ```mermaid
-%%{init: {'theme': 'default','themeVariables': { 'fontSize': '15px', 'width': '800px' }}}%%
+%%{init: {'theme': 'default','themeVariables': { 'fontSize': '15px' }}}%%
 graph LR
     A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete prerequisites</a>"]
     B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify onboarding persona</a>"]
@@ -26,11 +26,11 @@ graph LR
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Complete post onboarding steps</a>"]
     E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard'>Step 4: Access SEED Dashboard</a>"]
 
-    style A  stroke:#333, max-width: 600px;
-    style B  stroke:#333, max-width: 600px;
-    style C  stroke:#333, max-width: 600px;
-    style D  stroke:#333, max-width: 600px;
-    style E  stroke:#333, max-width: 600px;
+    style A  stroke:#333, max-width: 800px;
+    style B  stroke:#333, max-width: 800px;
+    style C  stroke:#333, max-width: 800px;
+    style D  stroke:#333, max-width: 800px;
+    style E  stroke:#333, max-width: 800px;
     
     A --> B
     B --> C
