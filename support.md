@@ -1,14 +1,14 @@
 # Support
 
-If you have issues with TechPass accounts, refer to [TechPass FAQs](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/overview). 
+If you encounter any issues with TechPass accounts, please refer to [TechPass FAQs](https://docs.developer.tech.gov.sg/docs/techpass-user-guide/support/overview) for detailed information and troubleshooting steps.
 
-If you have issues with SEED onboarding or accessing SEED-protected resources, refer to [SEED FAQs and known issues](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faqs). 
+If you face problems with SEED onboarding or accessing SEED-protected resources, please consult the [SEED FAQs and known issues](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/faqs/seed-faqs) for assistance and potential solutions.
 
-If you still need help, create an [incident request](https://go.gov.sg/seed-techpass-support).
+If you are unable to resolve your issue using the provided resources, we recommend creating an [incident request](https://go.gov.sg/seed-techpass-support). 
 
-- TechPass account.
-- TechPass portal.
-- SEED onboarding.
-- Accessing SEED-protected resources.
+
+
+
+
 
 
