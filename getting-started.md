@@ -4,8 +4,8 @@ This section provides general guidelines on how to get started with SEED onboard
 
 ```mermaid
 flowchart LR
-    A[Identify your persona <br/> and dedicate time to onboarding device]
-    B[Pre-Onboarding to SEED]
+    "<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-following-prerequisites'>A[Step 0: Ensure you meet the required prerequisites]</a>"
+    B[Identify your persona <br/> and dedicate time to onboarding device]
     C[Onboarding to SEED]
     D[Post-Onboarding to SEED]
     E[Accessing DEEP Dashboard]
@@ -22,7 +22,7 @@ flowchart LR
 ![guidelines-to-onboard-your-device-to-seed](images/guidelines-to-onboard-your-device-to-seed.png)
 
 
-## Step 0: Ensure you meet the following prerequisites
+## Step 0: Ensure you meet the required prerequisites
 
 <ul style="list-style-type: disc; margin-left: -3px;">
 <li style="margin-bottom:-20px">You need an active <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-to-techpass">TechPass account</a>.</li>
