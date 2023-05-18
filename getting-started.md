@@ -31,6 +31,33 @@ graph LR
     D --> E
 ```    
 
+<style>
+    text {
+        font-size: 40px;
+    }
+</style>
+
+```mermaid
+%%{init: {'theme': 'default'}}%%
+graph LR
+    A("Step 0: Complete the prerequisites")
+    B("Step 1: Identify your persona")
+    C("Step 2: Onboarding to SEED")
+    D("Step 3: Post-Onboarding to SEED")
+    E("Step 4: Access SEED Dashboard")
+    
+    style A fill:#f9f, stroke:#333;
+    style B fill:#f9f, stroke:#333;
+    style C fill:#f9f, stroke:#333;
+    style D fill:#f9f, stroke:#333;
+    style E fill:#f9f, stroke:#333;
+    
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+```    
+
 
   
 
