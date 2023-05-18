@@ -26,11 +26,11 @@ graph LR
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Complete post onboarding steps</a>"]
     E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard'>Step 4: Access SEED Dashboard</a>"]
 
-    style A  stroke:#333, max-width: 800px;
-    style B  stroke:#333, max-width: 800px;
-    style C  stroke:#333, max-width: 800px;
-    style D  stroke:#333, max-width: 800px;
-    style E  stroke:#333, max-width: 800px;
+    style A  stroke:#333, max-width: 1000px
+    style B  stroke:#333, max-width: 1000px
+    style C  stroke:#333, max-width: 1000px
+    style D  stroke:#333, max-width: 1000px
+    style E  stroke:#333, max-width: 1000px
     
     A --> B
     B --> C
