@@ -24,8 +24,8 @@ flowchart LR
     style E  stroke:#333, font-size:40px;
     
     A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started#step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
-    B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
-    C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed'>Step 2: Onboarding to SEED</a>"]
+    B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?#step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
+    C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?#step-2-onboard-device-to-seed'>Step 2: Onboarding to SEED</a>"]
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Post-Onboarding to SEED</a>"]
     E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard'>Step 4: Access SEED Dashboard</a>"]
     
