@@ -1,21 +1,19 @@
 # DEEP Dashboard
 
-[DEEP Dashboard](https://dashboard.deep.tech.gov.sg) is a security system that relies on data and functionality from various services such as: TechPass, Cloudflare, Defender, and Microsoft Intune. Its primary objective is to detect potentially insecure devices and prevent them from accessing SEED-protected resources. It also ensures device compliance by measuring configurations against CIS-based benchmarks and automatically correcting non-compliant settings whenever possible.
-
-The user-facing component of SEED is known as the DEEP Dashboard. This intuitive dashboard empowers SEED users with the following capabilities:
+[DEEP Dashboard](https://dashboard.deep.tech.gov.sg) is a security system that relies on data and functionality from various services such as: TechPass, Cloudflare, Microsoft Defender, and Microsoft Intune. Its primary objective is to detect potentially insecure devices and prevent them from accessing SEED-protected resources. It also ensures device compliance by measuring configurations against CIS-based benchmarks and automatically correcting non-compliant settings whenever possible.
 
 ![deep-dashboard](images/deep-dashboard-tour.png)
 
 | **Legend** 	| **Description** 	|
 |:---:	|---	|
 | <img src="images/legend-1.png" alt="1" width="100" height="100">	| Displays information about your device. It provides details such as the device model and operating system version. 	|
-| <img src="images/legend-2.png" alt="2" width="100" height="100">	| This section highlights any security issues that have been detected on your device and step-by-step instructions on how to resolve them.  	|
-| <img src="images/legend-3.png" alt="3" width="100" height="100">	| This menu gives options for users to carry out various administrative tasks. For example, reporting issues. 	|
+| <img src="images/legend-2.png" alt="2" width="100" height="100">	| This section highlights any security issues that have been detected on your device. Click the issue to  view the step-by-step instructions on how to resolve it.  	|
+| <img src="images/legend-3.png" alt="3" width="100" height="100">	| This menu gives options for users to do the following:<br>- report an issue <br>- provide feedback and <br>- sign out. 	|
 | <img src="images/legend-4.png" alt="4" width="100" height="100">	| Click this to show/hide the list of tests or evaluations that have been successfully completed. 	|
 
 ## How to access DEEP Dashboard?
 
-You can access DEEP dashboard from the following devices using the [support browsers](#supported-browsers):
+You can access DEEP dashboard from the following devices using the [supported browsers](#supported-browsers):
 
 - Device that is connected to Cloudflare WARP
 - non-SE GSIB device 

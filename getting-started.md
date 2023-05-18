@@ -1,6 +1,6 @@
 # Getting started
 
-This section provides general guidelines on how to get started with SEED onboarding. It offers essential steps and information to help you begin the onboarding process smoothly. 
+This section provides general guidelines on how to get started with SEED onboarding. It offers essential steps and information to help you complete the onboarding process smoothly. 
 
 
 ```mermaid
@@ -48,7 +48,7 @@ graph LR
 
 ## Step 1: Identify your onboarding persona
 
-To determine if your onboarding persona is that of a **vendor** or a **public officer**, you can refer to your TechPass login ID. The onboarding persona is determined based on your login ID associated with TechPass.
+To determine if your onboarding persona is that of a **vendor** or a **public officer**, refer to your TechPass login ID. The onboarding persona is determined based on your login ID associated with TechPass.
 
 | Onboarding Persona 	| Description 	| Example 	|
 |---	|---	|---	|
@@ -57,19 +57,25 @@ To determine if your onboarding persona is that of a **vendor** or a **public of
 
 ## Step 2: Onboard device to SEED
 
-The onboarding process consists of the following steps:
+The onboarding process consists of the following steps. 
 
-1. Set up Microsoft Intune on your device. If you are onboarding as a vendor, all the necessary applications and device configurations will be provided when you set up Intune.
+?> For step-by-step instructions tailored to your specific onboarding persona, please refer to the [SEED Documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/onboard-device/onboard-device-to-seed). It provides comprehensive guidance to assist you throughout the onboarding process.
 
-2. If you are onboarding as a public officer, you need to register the Intune Device ID on the [TechPass portal](https://portal.techpass.gov.sg/secure/account/profile) from your non-SE GSIB device. This step ensures that the required applications and device configurations are installed on your device. 
+1. Set up Microsoft Intune on the device. 
+
+2. Ensure that your device is connected to the Internet so that Intune is able to install the required SEED components and configurations. 
+
+    If you are onboarding as a vendor, all the necessary applications and device configurations will be provided when you set up Intune, provided your device is connected to the internet. 
+
+3. If you are onboarding as a public officer, you need to register your Intune Device ID on the [TechPass portal](https://portal.techpass.gov.sg/secure/account/profile) from your non-SE GSIB device. This step ensures that the required applications and device configurations are installed on your device. 
 
 ?> **Note**<br>- If you are a SE GSIB device user, please submit a [support request](https://go.gov.sg/seed-techpass-support) to register your Intune Device ID. <br>- Ensure that the device you are onboarding remains connected to the internet until you receive the confirmation email indicating successful onboarding.<br>- Public officers who are undergoing the onboarding process can check their onboarding status on the TechPass portal.<br>- Please be aware that onboarding may fail due to various reasons. In such cases, we will provide the specific onboarding status and the necessary action required from you to resolve the issue. 
 
-3. When your onboarding is successfully completed, a confirmation email will be sent to the email address linked to your TechPass account.
+3. When your onboarding is successfully completed, a confirmation email will be sent to the email address associated to your TechPass account.
 
 4. Verify that the required profiles have been installed on your device.
 
-?> For step-by-step instructions tailored to your specific onboarding persona, please refer to the [SEED Documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/onboard-device/onboard-device-to-seed). It provides comprehensive guidance to assist you throughout the onboarding process.
+
 
   
 

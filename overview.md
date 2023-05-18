@@ -37,7 +37,7 @@ SEED comprises of three components:
 
 - This is the Identity Access Management(IAM) and Single Sign-On(SSO) solution for accessing SGTS and GCC services.
 
-- TechPass is an IAM solution that is equipped with Single Sign On (SSO). It leverages on [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/), which is an enterprise identity service from Microsoft.
+- TechPass is an IAM solution that is equipped with Single Sign-On(SSO). It leverages on [Azure Active Directory](https://azure.microsoft.com/en-us/services/active-directory/), which is an enterprise identity service from Microsoft.
 
 - It complies with Government Instruction Manual ICT&SS Management (also known as [IM8](https://www.developer.tech.gov.sg/guidelines/standards-and-best-practices/instruction-manual-for-ict-ss-management.html)). It utilises popular open standards [OAuth 2.0](https://oauth.net/2/), [OpenID Connect](https://openid.net/connect/), and [Security Assertion Markup Language 2.0](http://docs.oasis-open.org/security/saml/Post2.0/sstc-saml-tech-overview-2.0.html) for authentication and authorisation processes.
 
