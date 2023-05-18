@@ -8,10 +8,10 @@ The user-facing component of SEED is known as the DEEP Dashboard. This intuitive
 
 | **Legend** 	| **Description** 	|
 |:---:	|---	|
-| ![1](images/legend-1.png)	| Displays information about your device. It provides details such as the device model and operating system version. 	|
-| ![2](images/legend-2.png)	| This section highlights any security issues that have been detected on your device and step-by-step instructions on how to resolve them.  	|
-| ![3](images/legend-3.png)	| This menu gives options for users to carry out various administrative tasks. For example, reporting issues. 	|
-| ![4](images/legend-4.png)	| Click this to show/hide the list of tests or evaluations that have been successfully completed. 	|
+| <img src="images/legend-1.png" alt="1" width="100" height="100">	| Displays information about your device. It provides details such as the device model and operating system version. 	|
+| <img src="images/legend-2.png" alt="2" width="100" height="100">	| This section highlights any security issues that have been detected on your device and step-by-step instructions on how to resolve them.  	|
+| <img src="images/legend-3.png" alt="3" width="100" height="100">	| This menu gives options for users to carry out various administrative tasks. For example, reporting issues. 	|
+| <img src="images/legend-4.png" alt="4" width="100" height="100">	| Click this to show/hide the list of tests or evaluations that have been successfully completed. 	|
 
 ## How to access DEEP Dashboard?
 
