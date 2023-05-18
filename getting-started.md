@@ -8,7 +8,7 @@ flowchart LR
     B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
     C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed'>Step 2: Onboarding to SEED</a>"]
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Post-Onboarding to SEED</a>"]
-    E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard>Step 4: Access SEED Dashboard</a>"]
+    E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard'>Step 4: Access SEED Dashboard</a>"]
     A --> B
     B --> C
     C --> D
