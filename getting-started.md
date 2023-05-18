@@ -4,7 +4,7 @@ This section provides general guidelines on how to get started with SEED onboard
 
 ```mermaid
 flowchart LR
-    A["-[Step 0: Ensure you meet the required prerequisites](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started#step-0-ensure-you-meet-the-required-prerequisites)"]
+    A["[Step 0: Ensure you meet the required prerequisites](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started#step-0-ensure-you-meet-the-required-prerequisites)"]
     B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
     C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed'>Step 2: Onboarding to SEED</a>"]
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Post-Onboarding to SEED</a>"]
