@@ -17,11 +17,11 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A["[Step 0: Complete the prerequisites](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites)"]
-    B["[Step 1: Identify your persona](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona)"]
-    C["[Step 2: Onboarding to SEED](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed)"]
-    D["[Step 3: Post-Onboarding to SEED](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps)"]
-    E["[Step 4: Access SEED Dashboard](https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard)"]
+    A["[Step 0: Complete the prerequisites](#step-0-ensure-you-meet-the-required-prerequisites)"]
+    B["[Step 1: Identify your persona](#step-1-identify-your-onboarding-persona)"]
+    C["[Step 2: Onboarding to SEED](#step-2-onboard-device-to-seed)"]
+    D["[Step 3: Post-Onboarding to SEED](post-onboarding-steps)"]
+    E["[Step 4: Access SEED Dashboard](dashboard)"]
     A --> B
     B --> C
     C --> D
