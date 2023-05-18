@@ -23,7 +23,7 @@ flowchart LR
     style D  stroke:#333, font-size:40px;
     style E  stroke:#333, font-size:40px;
     
-    A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
+    A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started#step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
     B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
     C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed'>Step 2: Onboarding to SEED</a>"]
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Post-Onboarding to SEED</a>"]
@@ -35,18 +35,17 @@ flowchart LR
     D --> E
 ```    
 
-
-
-
-
-    
+  
 
 ## Guidelines for onboarding
 
 ![guidelines-to-onboard-your-device-to-seed](images/guidelines-to-onboard-your-device-to-seed.png)
 
+<a id="step-0-ensure-you-meet-the-required-prerequisites">
 
 ## Step 0: Ensure you meet the required prerequisites
+
+</a>
 
 <ul style="list-style-type: disc; margin-left: -3px;">
 <li style="margin-bottom:-20px">You need an active <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-to-techpass">TechPass account</a>.</li>
