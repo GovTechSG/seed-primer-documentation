@@ -2,7 +2,7 @@
  - [Overview](overview)
  - [Onboarding to SEED](getting-started)
  - [Post onboarding](post-onboarding-steps)
- - [Dashboard](dashboard)
+ - [DEEP Dashboard](dashboard)
 
 
     
