@@ -5,6 +5,6 @@ After completing the SEED onboarding process, please proceed with the [post-onbo
 The objective of this is to ensure the following:
 
 - Enable Full Disk Access (FDA) for SEED components.
-- Activate Cloudflare WARP for macOS.
+- Activate Cloudflare WARP for device.
 
 By completing the post onboarding steps, you will ensure that SEED functions properly and that Cloudflare WARP is activated on your device, enhancing the security and performance of your device.
