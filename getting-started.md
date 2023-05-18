@@ -17,16 +17,25 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    A["[Step 0: Complete the prerequisites](#step-0-ensure-you-meet-the-required-prerequisites)"]
-    B["[Step 1: Identify your persona](#step-1-identify-your-onboarding-persona)"]
-    C["[Step 2: Onboarding to SEED](#step-2-onboard-device-to-seed)"]
-    D["[Step 3: Post-Onboarding to SEED](post-onboarding-steps)"]
-    E["[Step 4: Access SEED Dashboard](dashboard)"]
+    style A fill:#f9f, stroke:#333, font-size:16px;
+    style B fill:#f9f, stroke:#333, font-size:16px;
+    style C fill:#f9f, stroke:#333, font-size:16px;
+    style D fill:#f9f, stroke:#333, font-size:16px;
+    style E fill:#f9f, stroke:#333, font-size:16px;
+    
+    A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
+    B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
+    C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed'>Step 2: Onboarding to SEED</a>"]
+    D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Post-Onboarding to SEED</a>"]
+    E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard'>Step 4: Access SEED Dashboard</a>"]
+    
     A --> B
     B --> C
     C --> D
     D --> E
-```
+```    
+
+
 
 
 
