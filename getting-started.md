@@ -2,9 +2,25 @@
 
 This section provides general guidelines on how to get started with SEED onboarding. It offers essential steps and information to help you begin the onboarding process smoothly. 
 
+```mermaid
+flowchart LR
+    A[Identify your persona <br/> and dedicate time to onboarding device]
+    B[Pre-Onboarding to SEED]
+    C[Onboarding to SEED]
+    D[Post-Onboarding to SEED]
+    E[Accessing DEEP Dashboard]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+```
+
+
+
 ## Guidelines for onboarding
 
 ![guidelines-to-onboard-your-device-to-seed](images/guidelines-to-onboard-your-device-to-seed.png)
+
 
 ## Step 0: Ensure you meet the following prerequisites
 
