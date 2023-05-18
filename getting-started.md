@@ -5,11 +5,10 @@ This section provides general guidelines on how to get started with SEED onboard
 ```mermaid
 flowchart LR
     A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites' target='_blank'>Step 0: Ensure you meet the required prerequisites</a>"]
-    A[Step 0: Ensure you meet the required prerequisites]
-    B "https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona" "Identify your persona <br/> and dedicate time to onboarding device"
-    C "https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed" "Onboarding to SEED"
-    D "https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps" "Post-Onboarding to SEED"
-    E "https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard" "Accessing DEEP Dashboard"
+    B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites' target='_blank'>Step 1: Identify your persona</a>"]
+    C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites' target='_blank'>Step 2: Onboarding to SEED</a>"]
+    D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites' target='_blank'>Step 3: Post-Onboarding to SEED</a>"]
+    E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites' target='_blank'>Step 4: Access SEED Dashboard</a>"]
     A --> B
     B --> C
     C --> D
