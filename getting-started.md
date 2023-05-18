@@ -23,17 +23,13 @@ graph LR
     C("Step 2: Onboarding to SEED")
     D("Step 3: Post-Onboarding to SEED")
     E("Step 4: Access SEED Dashboard")
-    
-    style A fill:#f9f, stroke:#333;
-    style B fill:#f9f, stroke:#333;
-    style C fill:#f9f, stroke:#333;
-    style D fill:#f9f, stroke:#333;
-    style E fill:#f9f, stroke:#333;
+      
     
     A --> B
     B --> C
     C --> D
     D --> E
+```    
 
 
   
