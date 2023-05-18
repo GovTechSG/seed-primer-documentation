@@ -17,11 +17,11 @@ flowchart LR
 
 ```mermaid
 flowchart LR
-    style A  stroke:#333, font-size:16px;
-    style B  stroke:#333, font-size:16px;
-    style C  stroke:#333, font-size:16px;
-    style D  stroke:#333, font-size:16px;
-    style E  stroke:#333, font-size:16px;
+    style A  stroke:#333, font-size:36px;
+    style B  stroke:#333, font-size:36px;
+    style C  stroke:#333, font-size:36px;
+    style D  stroke:#333, font-size:36px;
+    style E  stroke:#333, font-size:36px;
     
     A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
     B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify your persona</a>"]
