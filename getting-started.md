@@ -25,6 +25,13 @@ graph LR
     C["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-2-onboard-device-to-seed'>Step 2: Onboard to SEED</a>"]
     D["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/post-onboarding-steps'>Step 3: Complete the post onboarding steps</a>"]
     E["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/dashboard'>Step 4: Access SEED Dashboard</a>"]
+
+    style A  stroke:#333, max-width: 200px;
+    style B  stroke:#333, max-width: 200px;
+    style C  stroke:#333, max-width: 200px;
+    style D  stroke:#333, max-width: 200px;
+    style E  stroke:#333, max-width: 200px;
+    
     A --> B
     B --> C
     C --> D
