@@ -18,7 +18,7 @@ flowchart LR
 ```
 
 ```mermaid
-%%{init: {'theme': 'default','themeVariables': { 'fontSize': '13px', 'fontFamily': 'Inter'}}}%%
+%%{init: {'theme': 'default','themeVariables': { 'fontSize': '30px', 'fontFamily': 'Inter'}}}%%
 graph LR
     A["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-required-prerequisites'>Step 0: Complete the prerequisites</a>"]
     B["<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-1-identify-your-onboarding-persona'>Step 1: Identify onboarding persona</a>"]
