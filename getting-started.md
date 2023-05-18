@@ -4,15 +4,16 @@ This section provides general guidelines on how to get started with SEED onboard
 
 ```mermaid
 flowchart LR
-    "<a href='https://docs.developer.tech.gov.sg/docs/staging-seed-primer/getting-started?id=step-0-ensure-you-meet-the-following-prerequisites'>A[Step 0: Ensure you meet the required prerequisites]</a>"
-    B[Identify your persona <br/> and dedicate time to onboarding device]
-    C[Onboarding to SEED]
-    D[Post-Onboarding to SEED]
-    E[Accessing DEEP Dashboard]
+    click A "https://example.com/step0" "Step 0: Ensure you meet the required prerequisites"
+    click B "https://example.com/identify" "Identify your persona <br/> and dedicate time to onboarding device"
+    click C "https://example.com/onboarding" "Onboarding to SEED"
+    click D "https://example.com/post-onboarding" "Post-Onboarding to SEED"
+    click E "https://example.com/access-dashboard" "Accessing DEEP Dashboard"
     A --> B
     B --> C
     C --> D
     D --> E
+
 ```
 
 
