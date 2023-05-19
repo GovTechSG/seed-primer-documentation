@@ -1,4 +1,11 @@
-**SEED**
-- [Overview](overview-of-seed)
-- [Getting started ](getting-started)
- - [Remove existing software](prereq-remove-existing-software)    
+**SEED Quick Start Guide**
+ - [Overview](overview)
+ - [Onboarding to SEED](getting-started)
+ - [Post onboarding](post-onboarding-steps)
+ - [DEEP Dashboard](dashboard)
+**Additional Resources**
+ - [TechPass and SEED support](support)
+   
+
+
+    
