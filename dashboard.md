@@ -24,6 +24,10 @@ You can access DEEP dashboard from the following devices using the [supported br
 - Microsoft Edge
 - Mozilla Firefox
 
+
+<!--
 ?> For more information, refer to the [DEEP Dashboard Documentation](https://docs.developer.tech.gov.sg/docs/deep-dashboard-stg/).
+
+-->
 
 
