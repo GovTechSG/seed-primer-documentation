@@ -27,7 +27,7 @@ SEED comprises of three components:
 
 - TechPass
 - Cloudflare
-- Development Environment Endpoint Posture(DEEP)
+- SEED Dashboard
 
 ![how-does-seed-work](images/how-does-seed-work.png)
 
@@ -51,9 +51,9 @@ This is the security platform that enforces Zero Trust network access allowing f
 
 - **Cloudflare Access**: Evaluates every request for user identity and device context.
 
-### **DEEP**
+### **SEED Dashboard**
 
-This is the Device management layer of SEED. It establishes a robust security baseline automatically​ and prevents insecure or compromised devices from accessing engineering resources.​ DEEP manages the following:
+This is the Device management layer of SEED. It establishes a robust security baseline automatically​ and prevents insecure or compromised devices from accessing engineering resources.​ SEED Dashboard manages the following:
 
 - **Microsoft Intune**: Provides device and application management including remote application deployment and selective device wipe.
 
