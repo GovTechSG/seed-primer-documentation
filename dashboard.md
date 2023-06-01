@@ -1,4 +1,4 @@
-# DEEP Dashboard
+# SEED Dashboard
 
 [SEED Dashboard](https://dashboard.seed.tech.gov.sg) is a security system that relies on data and functionality from various services such as: TechPass, Cloudflare, Microsoft Defender, and Microsoft Intune. Its primary objective is to detect potentially insecure devices and prevent them from accessing SEED-protected resources. It also ensures device compliance by measuring configurations against CIS-based benchmarks and automatically correcting non-compliant settings whenever possible.
 
