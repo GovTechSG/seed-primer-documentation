@@ -32,17 +32,16 @@ graph LR
 
 ## Step 0: Ensure you meet the required prerequisites
 
-<ul style="list-style-type: disc; margin-left: -3px;">
-<li style="margin-bottom:-20px">You need an active <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-to-techpass">TechPass account</a>.</li>
-<li style="margin-bottom:-20px">Request SEED provisioning. </li>
-<li style="margin-bottom:-20px">Internet Device running on one of the following operating systems:</li>
-    <li style="margin-bottom:-20px">Windows 10 and 11 Pro or Enterprise versions.</li>
-    <li style="margin-bottom:-20px">macOS 11 (macOS Big Sur), macOS 12 (macOS Monterey) and macOS 13 (Ventura) versions.</li>
-<li style="margin-bottom:-20px">Have administrator permissions on the device.</li>
-<li style="margin-bottom:-20px">Remove any existing software on your device such as MDM software, Tanium client or any other unified endpoint management and security platform.</li>
-<li style="margin-bottom:-20px">Ensure that System Integrity Protection(SIP) is enabled if you are onboarding a macOS device.</li>
-<li style="margin-bottom:-20px">Encrypt hard disk drive to protect the data at rest.</li>
-<li style="margin-bottom:-20px">If your organisation uses a firewall or other policies to restrict Internet traffic, you may need to make few changes to allow WARP to connect.</li>  
+- You need an active <a href="https://docs.developer.tech.gov.sg/docs/techpass-user-guide/onboard-to-techpass">TechPass account</a>.
+- Request SEED provisioning.
+Internet Device running on one of the following operating systems:
+    - Windows 10 and 11 Pro or Enterprise versions.
+    - macOS 11 (macOS Big Sur), macOS 12 (macOS Monterey) and macOS 13 (Ventura) versions.
+- Have administrator permissions on the device.
+- Remove any existing software on your device such as MDM software, Tanium client or any other unified endpoint management and security platform.
+- Ensure that System Integrity Protection(SIP) is enabled if you are onboarding a macOS device.
+- Encrypt hard disk drive to protect the data at rest.
+- If your organisation uses a firewall or other policies to restrict Internet traffic, you may need to make few changes to allow WARP to connect.
 
 ?> Refer to the [SEED user documentation](https://docs.developer.tech.gov.sg/docs/security-suite-for-engineering-endpoint-devices/prerequisites-for-onboarding) to know how to ensure you meet the prerequisites.
 
