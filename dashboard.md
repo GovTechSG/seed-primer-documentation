@@ -29,25 +29,25 @@ Using the SEED Dashboard, you can:
 To view malware alerts detected on your device, follow these steps:
 
 1. Click the section labelled **Malware Alerts** to learn more about the detected malware issues, categorised as low, medium, or high severity.
-   ![mal-alert](../images/mal-alert.png)
+   ![mal-alert](/images/mal-alert.png)
 
 2. Upon clicking, you will find two tabs:
     - **Malware Alerts**: This tab displays detailed information about the detected malware alerts.
-    ![mal-des](../images/mal-des.png)
+    ![mal-des](/images/mal-des.png)
 
     - **Remediation Steps**: You can find the necessary steps required to fix the malware issue.
-    ![remediation-steps](../images/remediation-step.png)
+    ![remediation-steps](/images/remediation-step.png)
 
 ## View compliance checks
 
 To review your compliance status and view the necessary compliance checks, follow these steps:
 
 1. Click the section labelled **Compliance Checks** to see the compliance checks you need to complete.
-    ![comp-check](../images/comp-check.png)
+    ![comp-check](/images/comp-check.png)
 
 
 2. Within this section, there is a **Show Passed Checks** button which displays the compliance checks you have already completed.
-    ![comp-page](../images/com-page.png)
+    ![comp-page](/images/com-page.png)
 
 
 
