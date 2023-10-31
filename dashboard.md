@@ -1,32 +1,57 @@
-# SEED Dashboard
+# SEED Dashboard 
 
-[SEED Dashboard](https://dashboard.seed.tech.gov.sg) is a security system that relies on data and functionality from various services such as: TechPass, Cloudflare, Microsoft Defender, and Microsoft Intune. Its primary objective is to detect potentially insecure devices and prevent them from accessing SEED-protected resources. It also ensures device compliance by measuring configurations against CIS-based benchmarks and automatically correcting non-compliant settings whenever possible.
+The SEED Dashboard helps you to monitor the health status of your GMD device at a glance. It provides key insights of the security issues detected on it. 
 
-![deep-dashboard](images/seed-dashboard-tour.png)
+Using the SEED Dashboard, you can: 
 
-| **Legend** 	| **Description** 	|
-|:---:	|---	|
-| <img src="images/legend-1.png" alt="1" width="100" height="100">	| Displays information about your device. It provides details such as the device model and operating system version. 	|
-| <img src="images/legend-2.png" alt="2" width="100" height="100">	| This section highlights any security issues that have been detected on your device. Click the issue to  view the step-by-step instructions on how to resolve it.  	|
-| <img src="images/legend-3.png" alt="3" width="100" height="100">	| This menu gives options for users to do the following:<br>- report an issue <br>- provide feedback and <br>- sign out. 	|
-| <img src="images/legend-4.png" alt="4" width="100" height="100">	| Click this to show/hide the list of tests or evaluations that have been successfully completed. 	|
+- View details of your device onboarded to SEED. 
 
-## How to access SEED Dashboard?
+- Respond to potential security threats including malicious activities detected on the GMD. 
 
-You can access SEED dashboard from the following devices using the [supported browsers](#supported-browsers):
+- Identify devices that are non-compliant. 
 
-- Device that is connected to Cloudflare WARP
-- non-SE GSIB device 
+<img src="images/seed-dashboard/seed-dashboard-tour.png" alt="drawing" width="100%"/>
 
-## Supported browsers
 
-- Google Chrome
-- Microsoft Edge
-- Mozilla Firefox
+| Legend | Description |
+| :--- | :----- |
+| <img src="images/seed-dashboard/step1.png" alt="drawing" width="50%"/> | **Device Information** - This pane displays details of the device onboarded to SEED.  |
+| <img src="images/seed-dashboard/step2.png" alt="drawing" width="50%"/> | **Malware Alerts** - This section displays alerts related to malware detected on the device, categorised as low, medium, or high severity. Click here to view steps for remediation and to understand the nature of the alert. |
+| <img src="images/seed-dashboard/step3.png" alt="drawing" width="50%"/> | **Compliance Checks** -  This section shows detected compliance checks. Click to view the specific compliance requirements that need to be met. |
+| <img src="images/seed-dashboard/step4.png" alt="drawing" width="50%"/> | **Issue updates** - This area provides real-time updates on your device's status. If no issues are detected, it will display "No known issues detected for your device.". If your device is blocked, it will guide you on how to unblock it. For specific issues, such as malware alerts or compliance check failures, further details are available when you click on the corresponding category. |
+| <img src="images/seed-dashboard/step5.png" alt="drawing" width="50%"/> | **Device Status** - This section indicates the current status of your device. There are three statuses: blocked, enabled, and suspended. Hover over the tooltip for explanations of these statuses. |
+| <img src="images/seed-dashboard/step6.png" alt="drawing" width="50%"/> | **Assistance and support** - The purple icon at the bottom right corner allows instant access to SEED's feedback and service request system. |
 
 
 
-?> For more information, refer to the [SEED Dashboard Documentation](https://docs.developer.tech.gov.sg/docs/seed-dashboard/).
+## View malware alerts
+
+To view malware alerts detected on your device, follow these steps:
+
+1. Click the section labelled **Malware Alerts** to learn more about the detected malware issues, categorised as low, medium, or high severity.
+   ![mal-alert](../images/seed-dashboard/mal-alert.png)
+
+2. Upon clicking, you will find two tabs:
+    - **Malware Alerts**: This tab displays detailed information about the detected malware alerts.
+    ![mal-des](../images/seed-dashboard/mal-des.png)
+
+    - **Remediation Steps**: You can find the necessary steps required to fix the malware issue.
+    ![remediation-steps](../images/seed-dashboard/remediation-step.png)
+
+## View compliance checks
+
+To review your compliance status and view the necessary compliance checks, follow these steps:
+
+1. Click the section labelled **Compliance Checks** to see the compliance checks you need to complete.
+    ![comp-check](../images/seed-dashboard/comp-check.png)
+
+
+2. Within this section, there is a **Show Passed Checks** button which displays the compliance checks you have already completed.
+    ![comp-page](../images/seed-dashboard/com-page.png)
+
+
+
+For more information, refer to the [SEED Dashboard documentation](https://docs.developer.tech.gov.sg/docs/seed-dashboard/).
 
 
 
