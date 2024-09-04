@@ -36,7 +36,7 @@ graph LR
 - Request SEED provisioning.
 Internet Device running on one of the following operating systems:
     - Windows 10 and 11 Pro or Enterprise versions.
-    - macOS 11 (macOS Big Sur), macOS 12 (macOS Monterey) and macOS 13 (Ventura) versions.
+    - macOS 13 and 14.
 - Have administrator permissions on the device.
 - Remove any existing software on your device such as MDM software, Tanium client or any other unified endpoint management and security platform.
 - Ensure that System Integrity Protection(SIP) is enabled if you are onboarding a macOS device.
